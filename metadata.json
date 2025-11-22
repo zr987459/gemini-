@@ -1,0 +1,8 @@
+{
+  "name": "Copy of  Gemini 2.0",
+  "description": "一个支持中文交互、具备强制全屏模式的 Gemini AI 智能助手。",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
